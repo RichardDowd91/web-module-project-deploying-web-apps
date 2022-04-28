@@ -27,3 +27,5 @@ Think about which project you are most proud of up to this point that you have b
 
 ### Submission Format
 - [ ] For this project, submit the link to your vercel hosted website.
+
+https://vercel.com/new/success?projectName=nasa-photo-of-the-day&deploymentUrl=nasa-photo-of-the-day-gvogpldl0-richarddowd91.vercel.app&redirect-url=&developer-id=&external-id=&branch=main
